@@ -1,0 +1,369 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B42D25AF-31A3-42D5-96F5-FD707C278AB8}|MyApplication\\MyApplication.csproj|c:\\users\\marti\\desktop\\gosho web proekt\\my-bakery-final-main\\myapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B42D25AF-31A3-42D5-96F5-FD707C278AB8}|MyApplication\\MyApplication.csproj|solutionrelative:myapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42D25AF-31A3-42D5-96F5-FD707C278AB8}|MyApplication\\MyApplication.csproj|c:\\users\\marti\\desktop\\gosho web proekt\\my-bakery-final-main\\myapplication\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B42D25AF-31A3-42D5-96F5-FD707C278AB8}|MyApplication\\MyApplication.csproj|solutionrelative:myapplication\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D0CC52-71CD-49DE-8EC5-1A7D95A04920}|ProjectApi\\ProjectApi.csproj|c:\\users\\marti\\desktop\\gosho web proekt\\my-bakery-final-main\\projectapi\\migrations\\20240524174323_migration1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D0CC52-71CD-49DE-8EC5-1A7D95A04920}|ProjectApi\\ProjectApi.csproj|solutionrelative:projectapi\\migrations\\20240524174323_migration1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D0CC52-71CD-49DE-8EC5-1A7D95A04920}|ProjectApi\\ProjectApi.csproj|c:\\users\\marti\\desktop\\gosho web proekt\\my-bakery-final-main\\projectapi\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D0CC52-71CD-49DE-8EC5-1A7D95A04920}|ProjectApi\\ProjectApi.csproj|solutionrelative:projectapi\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D0CC52-71CD-49DE-8EC5-1A7D95A04920}|ProjectApi\\ProjectApi.csproj|c:\\users\\marti\\desktop\\gosho web proekt\\my-bakery-final-main\\projectapi\\database\\dbbakerycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D0CC52-71CD-49DE-8EC5-1A7D95A04920}|ProjectApi\\ProjectApi.csproj|solutionrelative:projectapi\\database\\dbbakerycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D0CC52-71CD-49DE-8EC5-1A7D95A04920}|ProjectApi\\ProjectApi.csproj|c:\\users\\marti\\desktop\\gosho web proekt\\my-bakery-final-main\\projectapi\\migrations\\dbbakerycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D0CC52-71CD-49DE-8EC5-1A7D95A04920}|ProjectApi\\ProjectApi.csproj|solutionrelative:projectapi\\migrations\\dbbakerycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D0CC52-71CD-49DE-8EC5-1A7D95A04920}|ProjectApi\\ProjectApi.csproj|c:\\users\\marti\\desktop\\gosho web proekt\\my-bakery-final-main\\projectapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42D0CC52-71CD-49DE-8EC5-1A7D95A04920}|ProjectApi\\ProjectApi.csproj|solutionrelative:projectapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42D25AF-31A3-42D5-96F5-FD707C278AB8}|MyApplication\\MyApplication.csproj|c:\\users\\marti\\desktop\\gosho web proekt\\my-bakery-final-main\\myapplication\\myapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B42D25AF-31A3-42D5-96F5-FD707C278AB8}|MyApplication\\MyApplication.csproj|solutionrelative:myapplication\\myapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D0CC52-71CD-49DE-8EC5-1A7D95A04920}|ProjectApi\\ProjectApi.csproj|c:\\users\\marti\\desktop\\gosho web proekt\\my-bakery-final-main\\projectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D0CC52-71CD-49DE-8EC5-1A7D95A04920}|ProjectApi\\ProjectApi.csproj|solutionrelative:projectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyBakeryFinal\\MyApplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyBakeryFinal\\MyApplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\BakeryApi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BakeryApi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\BakeryApi\\Controllers\\ManageOrdersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BakeryApi\\Controllers\\ManageOrdersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyBakeryFinal\\Views\\Bakers\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyBakeryFinal\\Views\\Bakers\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyBakeryFinal\\Views\\Customers\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyBakeryFinal\\Views\\Customers\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyBakeryFinal\\Views\\Orders\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyBakeryFinal\\Views\\Orders\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyBakeryFinal\\Controllers\\OrdersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyBakeryFinal\\Controllers\\OrdersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyBakeryFinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyBakeryFinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyBakeryFinal\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyBakeryFinal\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyBakeryFinal\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyBakeryFinal\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyBakeryFinal\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyBakeryFinal\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyBakeryFinal\\Services\\BaseService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyBakeryFinal\\Services\\BaseService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyBakeryFinal\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyBakeryFinal\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\ProjectApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProjectApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\ProjectApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProjectApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T18:49:43.264Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyApplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T18:53:13.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "jquery.js",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyApplication\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeDocumentMoniker": "MyApplication\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyApplication\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeToolTip": "MyApplication\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ViewState": "AQIAAHMDAAAAAAAAAAAAAHMDAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-24T18:53:06.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyApplication\\MyApplication.csproj",
+              "RelativeDocumentMoniker": "MyApplication\\MyApplication.csproj",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyApplication\\MyApplication.csproj",
+              "RelativeToolTip": "MyApplication\\MyApplication.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T18:50:09.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBBakeryContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\ProjectApi\\Migrations\\DBBakeryContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ProjectApi\\Migrations\\DBBakeryContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\ProjectApi\\Migrations\\DBBakeryContextModelSnapshot.cs",
+              "RelativeToolTip": "ProjectApi\\Migrations\\DBBakeryContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:49:40.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBBakeryContext.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\ProjectApi\\Database\\DBBakeryContext.cs",
+              "RelativeDocumentMoniker": "ProjectApi\\Database\\DBBakeryContext.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\ProjectApi\\Database\\DBBakeryContext.cs",
+              "RelativeToolTip": "ProjectApi\\Database\\DBBakeryContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:49:24.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\ProjectApi\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "ProjectApi\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\ProjectApi\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "ProjectApi\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADgvxMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:49:23.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240524174323_Migration1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\ProjectApi\\Migrations\\20240524174323_Migration1.Designer.cs",
+              "RelativeDocumentMoniker": "ProjectApi\\Migrations\\20240524174323_Migration1.Designer.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\ProjectApi\\Migrations\\20240524174323_Migration1.Designer.cs",
+              "RelativeToolTip": "ProjectApi\\Migrations\\20240524174323_Migration1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:49:20.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\ProjectApi\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectApi\\Program.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\ProjectApi\\Program.cs",
+              "RelativeToolTip": "ProjectApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:48:59.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\BakeryApi\\appsettings.json",
+              "RelativeDocumentMoniker": "BakeryApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\BakeryApi\\appsettings.json",
+              "RelativeToolTip": "BakeryApi\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T18:45:36.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManageOrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\BakeryApi\\Controllers\\ManageOrdersController.cs",
+              "RelativeDocumentMoniker": "BakeryApi\\Controllers\\ManageOrdersController.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\BakeryApi\\Controllers\\ManageOrdersController.cs",
+              "RelativeToolTip": "BakeryApi\\Controllers\\ManageOrdersController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:43:03.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyBakeryFinal\\Views\\Bakers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MyBakeryFinal\\Views\\Bakers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyBakeryFinal\\Views\\Bakers\\Edit.cshtml",
+              "RelativeToolTip": "MyBakeryFinal\\Views\\Bakers\\Edit.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T18:40:59.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyBakeryFinal\\Views\\Customers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MyBakeryFinal\\Views\\Customers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyBakeryFinal\\Views\\Customers\\Edit.cshtml",
+              "RelativeToolTip": "MyBakeryFinal\\Views\\Customers\\Edit.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T18:40:26.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyBakeryFinal\\Views\\Orders\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MyBakeryFinal\\Views\\Orders\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyBakeryFinal\\Views\\Orders\\Edit.cshtml",
+              "RelativeToolTip": "MyBakeryFinal\\Views\\Orders\\Edit.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T18:40:18.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyBakeryFinal\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "MyBakeryFinal\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyBakeryFinal\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "MyBakeryFinal\\Controllers\\OrdersController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:37:45.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyBakeryFinal\\appsettings.json",
+              "RelativeDocumentMoniker": "MyBakeryFinal\\appsettings.json",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyBakeryFinal\\appsettings.json",
+              "RelativeToolTip": "MyBakeryFinal\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T18:28:30.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyBakeryFinal\\libman.json",
+              "RelativeDocumentMoniker": "MyBakeryFinal\\libman.json",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyBakeryFinal\\libman.json",
+              "RelativeToolTip": "MyBakeryFinal\\libman.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T18:28:29.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyBakeryFinal\\web.config",
+              "RelativeDocumentMoniker": "MyBakeryFinal\\web.config",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyBakeryFinal\\web.config",
+              "RelativeToolTip": "MyBakeryFinal\\web.config",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-24T18:28:28.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyBakeryFinal\\Program.cs",
+              "RelativeDocumentMoniker": "MyBakeryFinal\\Program.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyBakeryFinal\\Program.cs",
+              "RelativeToolTip": "MyBakeryFinal\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:28:27.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyBakeryFinal\\MyApplication.csproj",
+              "RelativeDocumentMoniker": "MyBakeryFinal\\MyApplication.csproj",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyBakeryFinal\\MyApplication.csproj",
+              "RelativeToolTip": "MyBakeryFinal\\MyApplication.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T18:25:11.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyBakeryFinal\\Services\\BaseService.cs",
+              "RelativeDocumentMoniker": "MyBakeryFinal\\Services\\BaseService.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyBakeryFinal\\Services\\BaseService.cs",
+              "RelativeToolTip": "MyBakeryFinal\\Services\\BaseService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:41:41.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyBakeryFinal\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MyBakeryFinal\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Gosho web proekt\\my-bakery-final-main\\MyBakeryFinal\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MyBakeryFinal\\Data\\ApplicationDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:27:27.224Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
